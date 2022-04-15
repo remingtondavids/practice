@@ -1,8 +1,8 @@
-var i = 1
+var j = 1
 
 
-i = 5
+j = 5
 
 
-i = false
+j = false
 
